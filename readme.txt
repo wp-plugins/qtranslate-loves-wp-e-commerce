@@ -20,10 +20,6 @@ Requires qTranslate and WP e-commerce.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
 1. Upload `qtloveswpec` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
@@ -31,11 +27,7 @@ e.g.
 
 = What does it do? =
 
-Come on! I've already told you twice?!
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+Adds translatable form fields for wp e-commerce taxonomies (product categories, variations and product tags).
 
 == Screenshots ==
 
