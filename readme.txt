@@ -3,7 +3,7 @@ Contributors: stereohero
 Donate link: http://stereohero.com/
 Tags: wp e-commerce, qtranslate, translation, wpec
 Requires at least: 3.0.1
-Tested up to: 3.5
+Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,8 @@ Adds translatable form fields for wp e-commerce taxonomies (product categories, 
 
 == Screenshots ==
 
-None
+1. The Product Variations edit screen with qTranslate loves WPEC. In this case with both Swedish and English alternatives.
+2. The Product Categories edit screen with qTranslate loves WPEC. In this case with both Swedish and English alternatives.
 
 == Changelog ==
 
